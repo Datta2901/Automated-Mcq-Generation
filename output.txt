@@ -1,0 +1,115 @@
+------------------------------------------------------------------------------
+                   MCQ GENERATION FROM TEXT                                   
+--------------------------------------------------------------------------
+
+
+1) The Nile River fed Egyptian civilization for  _______  of years .
+['C', 'one_C', 'century', 'hundreds']
+	 a )   hundreds
+	 b )   C
+	 c )   one_C
+	 d )   century
+
+More options:  ['hundred', '100'] 
+
+correct answers is : hundreds 
+
+2) The Nile River fed Egyptian civilization for hundreds of  _______  .
+['yr', 'long_time', 'year', 'years']
+	 a )   years
+	 b )   yr
+	 c )   year
+	 d )   long_time
+
+More options:  ['twelvemonth', 'old_age', 'years', 'geezerhood', 'class', 'eld', 'age', 'days'] 
+
+correct answers is : years 
+
+3) The ancient Egyptians lived in narrow  _______  of land on each side of the Nile .
+['band', 'isthmus', 'stria', 'bands']
+	 a )   bands
+	 b )   isthmus
+	 c )   stria
+	 d )   band
+
+More options:  ['circle', 'stripe', 'dance_orchestra', 'ring', 'banding', 'lot', 'striation', 'set', 'dance_band'] 
+
+correct answers is : bands 
+
+4) They called this region the black  _______  because of the fertile soil that the floods deposited .
+['body_politic', 'put_down', 'realm', 'land']
+	 a )   body_politic
+	 b )   put_down
+	 c )   realm
+	 d )   land
+
+More options:  ['domain', 'landed_estate', 'set_ashore', 'terra_firma', 'Edwin_Herbert_Land', 'Din_Land', 'bring_down', 'res_publica', 'state', 'bring', 'shore', 'ground', 'commonwealth', 'demesne', 'land', 'solid_ground', 'kingdom'] 
+
+correct answers is : land 
+
+5) The ancient Egyptians lived in narrow bands of land on each  _______  of the Nile .
+['face', 'slope', 'incline', 'side']
+	 a )   incline
+	 b )   slope
+	 c )   side
+	 d )   face
+
+More options:  ['English', 'side', 'position', 'top', 'side_of_meat'] 
+
+correct answers is : side 
+
+6) They called this  _______  the black land because of the fertile soil that the floods deposited .
+['region', 'neighborhood', 'realm', 'region']
+	 a )   realm
+	 b )   neighborhood
+	 c )   region
+	 d )   region
+
+More options:  ['part', 'area'] 
+
+correct answers is : region 
+
+7) They called this region the black  _______  because of the fertile soil that the floods deposited .
+['body_politic', 'put_down', 'realm', 'land']
+	 a )   land
+	 b )   body_politic
+	 c )   put_down
+	 d )   realm
+
+More options:  ['domain', 'landed_estate', 'set_ashore', 'terra_firma', 'Edwin_Herbert_Land', 'Din_Land', 'bring_down', 'res_publica', 'state', 'bring', 'shore', 'ground', 'commonwealth', 'demesne', 'land', 'solid_ground', 'kingdom'] 
+
+correct answers is : land 
+
+8) They called this region the black land because of the fertile  _______  that the floods deposited .
+['filth', 'land', 'stain', 'soil']
+	 a )   soil
+	 b )   filth
+	 c )   land
+	 d )   stain
+
+More options:  ['grime', 'grease', 'dirt', 'ground', 'territory', 'clean', 'bemire', 'grunge', 'begrime', 'colly', 'dirty', 'soil'] 
+
+correct answers is : soil 
+
+9) They called this region the black land because of the fertile soil that the  _______  deposited .
+['deluge', 'flood_lamp', 'flood_tide', 'floods']
+	 a )   floods
+	 b )   flood_tide
+	 c )   flood_lamp
+	 d )   deluge
+
+More options:  ['photoflood', 'overflow', 'inundation', 'inundate', 'glut', 'torrent', 'oversupply', 'alluvion', 'floodlight', 'swamp', 'rising_tide', 'flowage', 'ebbtide', 'flood', 'outpouring'] 
+
+correct answers is : floods 
+
+10)  _______  months of the year were sunny and hot.
+['Eight', '8', 'viii', 'Eight']
+	 a )   Eight
+	 b )   8
+	 c )   viii
+	 d )   Eight
+
+More options:  ['eighter', 'ogdoad', 'eight-spot', 'eighter_from_Decatur', 'VIII', 'octet', 'octad', 'Ashcan_School', 'eight', 'octonary'] 
+
+correct answers is : Eight 
+
